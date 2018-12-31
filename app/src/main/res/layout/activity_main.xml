@@ -28,4 +28,10 @@
         android:id="@+id/btn2"
         android:text="按钮2-lhg"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn3"
+        android:text="按钮3-amber"/>
+
 </LinearLayout>
